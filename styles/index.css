@@ -27,5 +27,28 @@ section {
   background-color: goldenrod;
   /* padding-bottom: 20px;
   padding-left: 200; */
-  padding: 30px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+
+article{
+  border: solid;
+  margin-bottom: 10px;
+}
+
+img{
+  width: 15em;
+  height: 15em;
+}
+
+.tituloarticulo{
+  text-align: center;
+  color:brown;
+}
+
+.linkProd{
+  display: flex;
+  justify-content: center;
+  margin-bottom: 10px;
 }
