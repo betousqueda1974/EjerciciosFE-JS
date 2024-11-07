@@ -7,6 +7,10 @@ header, footer{
   font-style: normal;
 }
 
+nav{
+  padding: 0.2em 0.2em;
+}
+
 li {
   list-style: none;
   display: inline-block;
